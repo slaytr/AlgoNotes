@@ -1,0 +1,7 @@
+# TechLead
+
+1) Make small changes. VSC/Atom can show diffs as you make changes. 
+2) Design Doc. What data structures do you need?
+3) Spend exclusive coding time.
+4) Reduce pride/ego, ask about comment, don't defend.
+5) Know who the TechLead is, person who merges your code. (Build respect)
