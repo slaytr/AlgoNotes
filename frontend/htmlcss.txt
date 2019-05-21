@@ -1,0 +1,19 @@
+Semantic HTML5 Elements
+Basic CSS - Positioning, Box Model, etc
+Flexbox + CSS Grid
+CSS Variables (Custom Properties)
+Browser Dev Tools
+
+=== Responsive Layout ===
+Set viewport
+Fluid widths
+Media queries
+rem over px
+Mobile first, stacked columns
+
+=== SASS Pre-Pocessor ===
+Structured CSS
+Variables
+Nested CSS
+Mixins and Functions
+Inheritance

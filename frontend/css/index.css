@@ -1,0 +1,5 @@
+$yourcolor: #000056
+
+.yourDiv {
+  color: $yourcolor;
+ }

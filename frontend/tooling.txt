@@ -1,0 +1,5 @@
+cli
+git
+npm
+parcel - module bundling
+gulp - task runner

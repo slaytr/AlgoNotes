@@ -1,0 +1,37 @@
+semantic html5 elements
+
+article
+aside
+details
+figcaption
+figure
+footer
+header
+main
+mark
+nav
+section
+summary
+time
+
+example layout
+[header        ]
+[--------------] 
+[nav           ]
+[--------------]
+[section][     ]
+[-------][aside]
+[article][     ]
+[-------][-----]
+[footer	       ]
+
+Benefits - Easier to read
+	 - Search engines better find semantic elements
+
+article - indepdently distributable or reusable
+section - thematic grouping of content
+
+aside - for a sidebar
+time - allow unambiguos ISO 8601 date to be attched to human readable version
+figure - wrapping an image
+figcaption - adding text to an image
