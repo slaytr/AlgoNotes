@@ -1,0 +1,36 @@
+
+person:
+  name: "bill" &name # Anchor
+  occupation: 'dev'
+  age: "23" # Force types, !!float 23 will render 23.0
+  fav: 1e+10
+  male: true
+  birthday: 1995-10-06 12:01:33
+
+  # Both are lists
+  hobbies:
+    - coding
+    - food
+  movies: ["Gladiator", "Hotel Transylvania"]
+
+  friends:
+    - name: "Sarah"
+      age: 22
+    - {name: Sarah, age: 22}
+
+  description: > # render below as single line
+    Aasdasd asdsaasd asdsadas
+    asdasdas asdasdad asdasds
+    abxcvc asdaqwe asdxzcxcxzs
+  
+  signature: | # preserve spacing
+    Bill
+    Software Developer
+  
+  id: *name # Access Anchor value
+
+  base: &base
+    var1: value1
+  
+  foo:
+    <<: *base # Access Anchor key value

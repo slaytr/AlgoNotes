@@ -1,5 +1,27 @@
-$yourcolor: #000056
+body {
+  margin: 0;
+}
 
-.yourDiv {
-  color: $yourcolor;
- }
+header {
+  background-color: #04395E;
+  color: #fff;
+  font-size: 30px;
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  min-height: 100vh;
+}
+
+.flex {
+  background-color: #55868C;
+  color: #fff;
+  font-size: 5vw;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
