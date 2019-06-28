@@ -1,0 +1,15 @@
+https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/#block-v1:HarvardX+CS50M+Mobile+type@chapter+block@1c5f90b4bc6542bfb380da9fb4941147
+
+Overview, JavaScript
+JavaScript, ES6
+React, Props, State
+React Native
+Lists, User Input
+User Input, Debugging
+Navigation
+Data
+Expo Components
+Redux
+Async Redux, Tools
+Performance
+Deploying, Testing

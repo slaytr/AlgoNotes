@@ -1,0 +1,22 @@
+JavaScript is Interpreted
+
+Browser			Interpreter
+Chrome | Node.js	V8: 
+Firefox			SpiderMonkey
+Safari			JavaScriptCore
+Microsoft Edge/IE 	Chakra
+
+Each browser has its own JavaScript engine, which each implements the ECMAScript standard
+
+Explicit vs. Implicit coercion
+const x = 42;
+const explicit = String(x); // explicit === "42"
+const implicit = x + ""; // implicit === "42"
+
+https://dorey.github.io/JavaScript-Equality-Table/
+
+Primitive types -undefined - null - boolean - number - string - symbol
+Primitives are immutable
+
+Objects stored by reference
+Each object stores a reference to its prototype

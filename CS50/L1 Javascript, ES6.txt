@@ -1,0 +1,15 @@
+ES5 ES6 ES2016 ES2017 ES.next
+Standard = ES5
+
+Transpiler - Babel, TypeScript, CoffeeScript
+Converts future syntax to be backwards compatible
+
+Closures
+Function that refer to variables that have left scope
+
+Promises - fetch - .then()
+Async Await
+
+This
+Refers to object set at creation of execution context
+If a method is invoked as part of a object, then this refers to the object
